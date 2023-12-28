@@ -35,7 +35,7 @@
 
 <p align="center">
 <!--<a href=""><img src=""/></a>-->
-<a href="https://www.linkedin.com/in/jeevana09"><img src="https://img.shields.io/badge/-Jeevana%20Maradana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jeevana123"><img src="https://img.shields.io/badge/-Jeevana%20Maradana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jeevanamaradana@52gmail.com"><img src="https://img.shields.io/badge/-jeevana%20Maradana-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/jeevana_19"><img src="https://img.shields.io/badge/-Jeevana%20Maradana-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
