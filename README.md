@@ -1,5 +1,7 @@
-<h2>Hey there! I'm Jeevana</h2>
-
+<h2>Hey there!<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> I'm Jeevana Maradana</h2>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+ 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -9,7 +11,6 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me.\
 ✉️ &nbsp;You can shoot me an email at jeevanamaradana52@gmail.com! I'll try to respond as soon as I can.\
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
