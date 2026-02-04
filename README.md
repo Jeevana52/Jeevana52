@@ -6,7 +6,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop innovative solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science Engineering.\
+🎓 &nbsp;I'm a Backend-focused engineer building **Agentic GenAI systems** with
+a strong emphasis on APIs, reliability, and real-world system design.\
 🌱 &nbsp;I'm on track for learning more about machine learning, web development, and Web Designs.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me.\
