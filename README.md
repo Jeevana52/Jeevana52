@@ -9,7 +9,7 @@
 🎓 &nbsp;I'm a Backend-focused engineer building **Agentic GenAI systems**.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me.\
-✉️ &nbsp;You can shoot me an email at jeevanamaradana52@gmail.com! I'll try to respond ASAP.\
+✉️ &nbsp;You can shoot me an email at jeevanamaradana52@gmail.com! I'll try to respond ASAP.
 
 ### 🛠 &nbsp;Tech Stack
 
